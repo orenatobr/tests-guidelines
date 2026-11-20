@@ -14,6 +14,7 @@ This repo packages the `tests-guidelines` agent skill, plus the `prs-fixes` and 
 - Keep `SKILL.md` short and move long material to `references/`.
 - Do not add dependencies or tooling the skill does not need.
 - Never commit secrets, tokens, personal data or machine-specific paths.
+- Record every notable change under `## [Unreleased]` in `CHANGELOG.md` (Keep a Changelog format).
 - Never push to `main`. Open a pull request. `main` needs one approval, and the repo owner can bypass it.
 - Commit messages and PR titles use Conventional Commits with a scope, for example `fix(tests-guidelines): tighten the trigger description`.
 
