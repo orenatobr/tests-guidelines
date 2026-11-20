@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `tests-guidelines` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill for test-first development with 80%+ coverage.
+This repo packages the `tests-guidelines` agent skill. Agent skill for test-first development with 80%+ coverage.
 
 ## Layout
 
